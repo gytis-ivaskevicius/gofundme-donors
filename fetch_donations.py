@@ -176,7 +176,7 @@ def main() -> int:
         before = nxt
         time.sleep(0.4)
 
-    merged = {r["id"]: r for r in existing}
+    merged = {r["id"]: _slim(r) for r in existing}
     for r in new_rows:
         merged[r["id"]] = r
     donations = [merged[i] for i in sorted(merged, key=lambda x: int(x))]
@@ -214,9 +214,17 @@ def _record(node: dict) -> dict:
         "amount": (node.get("amount") or {}).get("amount"),
         "currency": (node.get("amount") or {}).get("currencyCode"),
         "createdAt": node.get("createdAt"),
-        "isOffline": node.get("isOffline"),
-        "isRecurring": node.get("isRecurring"),
-        "isVerified": node.get("isVerified"),
+    }
+
+
+def _slim(r: dict) -> dict:
+    """Normalize an existing stored record to the slim schema."""
+    return {
+        "id": r.get("id"),
+        "name": r.get("name"),
+        "amount": r.get("amount"),
+        "currency": r.get("currency"),
+        "createdAt": r.get("createdAt"),
     }
 
 

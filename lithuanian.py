@@ -18,7 +18,7 @@ import re
 import unicodedata
 from pathlib import Path
 
-CORPORA = Path(__file__).parent / "data" / "corpora"
+CORPORA = Path(__file__).parent / "corpora"
 
 
 def _load(name: str) -> list[str]:

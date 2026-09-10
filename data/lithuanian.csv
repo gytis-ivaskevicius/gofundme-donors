@@ -1,32 +1,32 @@
 tier,name,total_amount,donation_count,evidence
-T1,Aleska Anko,50.0,1,
-T1,Gabby Butkute,25.0,1,
-T1,Jennifer Mazeika,20.0,1,
-T1,Arelis Sanchez,10.0,1,
-T1,Giedre Peciuliene,10.0,1,
-T1,Shereen Anis,5.0,1,
-T2,Christine Daiute,100.0,1,
-T2,Kate Barkauskas,100.0,1,
-T2,Pamela Stacilauskas,50.0,1,
-T2,Sonata Jasaityte,50.0,1,
-T2,Miss Ramune Achranoviciute,33.0,1,
-T2,R Stragauskaite,33.0,1,
-T2,Ruta Kraujutyte,33.0,1,
-T2,Jamie Stacilauskas,32.0,1,
-T2,angela krukauskas,25.0,1,
-T2,Michele Jennings-Mazauskas,25.0,1,
-T2,Patricia Bakutis,25.0,1,
-T2,Shannon Balchunas,25.0,1,
-T2,Stephanie Degaitis,25.0,1,
-T2,Dzeineta Dalia Pumputyte,15.0,1,
-T2,Klaudija Jenciute,13.0,1,
-T2,Lara Simonis,7.0,1,
-T2,Angelina Alkonis,5.0,1,
-T3,Egle Kurpyte,61.0,1,
-T3,Jurate Tilmanaite,57.0,1,
-T3,Agne Murnikaite,33.0,1,
-T3,Ieva Minkuvienė,10.0,1,
-T3,Deimante Bracaite,6.0,1,
-T4,Lauren Wychunas,50.0,1,
-T4,Shannon Wayte,50.0,1,
-T5,Ruta DiCarlo,10.0,1,
+T1,Aleska Anko,50.0,1,corpus:wikt(pos2)
+T1,Gabby Butkute,25.0,1,corpus:wikt
+T1,Jennifer Mazeika,20.0,1,corpus:wikt
+T1,Arelis Sanchez,10.0,1,corpus:wikt(pos2)
+T1,Giedre Peciuliene,10.0,1,corpus:wikt
+T1,Shereen Anis,5.0,1,corpus:wikt
+T2,Christine Daiute,100.0,1,morph:iute
+T2,Kate Barkauskas,100.0,1,morph:auskas
+T2,Pamela Stacilauskas,50.0,1,morph:auskas
+T2,Sonata Jasaityte,50.0,1,morph:aityte
+T2,Miss Ramune Achranoviciute,33.0,1,morph:oviciute
+T2,R Stragauskaite,33.0,1,morph:auskaite
+T2,Ruta Kraujutyte,33.0,1,morph:utyte
+T2,Jamie Stacilauskas,32.0,1,morph:auskas
+T2,angela krukauskas,25.0,1,morph:auskas
+T2,Michele Jennings-Mazauskas,25.0,1,morph:auskas
+T2,Patricia Bakutis,25.0,1,morph:utis
+T2,Shannon Balchunas,25.0,1,morph:unas
+T2,Stephanie Degaitis,25.0,1,morph:aitis
+T2,Dzeineta Dalia Pumputyte,15.0,1,morph:utyte
+T2,Klaudija Jenciute,13.0,1,morph:iute
+T2,Lara Simonis,7.0,1,morph:onis
+T2,Angelina Alkonis,5.0,1,morph:onis
+T3,Egle Kurpyte,61.0,1,fem:yte;support
+T3,Jurate Tilmanaite,57.0,1,fem:aite;support
+T3,Agne Murnikaite,33.0,1,fem:aite;support
+T3,Ieva Minkuvienė,10.0,1,fem:iene;support
+T3,Deimante Bracaite,6.0,1,fem:aite;support
+T4,Lauren Wychunas,50.0,1,morph:unas;w-for-v
+T4,Shannon Wayte,50.0,1,morph:yte;w-for-v
+T5,Ruta DiCarlo,10.0,1,given:ruta

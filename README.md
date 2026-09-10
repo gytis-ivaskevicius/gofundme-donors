@@ -24,14 +24,11 @@ Campaign (default): `support-for-lindsay-clancys-parents`
 
 | File | Contents |
 |---|---|
-| `donations.json` | raw payload incl. `totalCount`, anonymous count, records |
-| `non_anonymous_donations.csv` | chronological full list |
-| `names_all.txt` | every donor name, chronological |
-| `names_unique.txt` | unique name strings (A–Z) |
-| `names_unique.csv` | unique name + donation count + total amount |
-| `lithuanian.csv` | Lithuanian candidates with evidence tiers |
-| `lithuanian_archive.csv` | Wikidata-citizen surnames (noisy, review-only) |
-| `summary.json` / `SUMMARY.md` | aggregate stats + top donors |
+| `names_unique.csv` | unique donor names + donation count + total amount |
+| `lithuanian.csv` | Lithuanian candidates with evidence tier |
+| `donations.json` | internal state (full record list; needed for incremental updates) |
+
+Classifier inputs live in `corpora/` (Wiktionary + Wikidata name lists).
 
 ## Lithuanian classifier
 
@@ -46,7 +43,7 @@ Evidence tiers (`lithuanian.py`), strongest first:
 - **T5** — distinctive Lithuanian given name only (verify manually)
 - **T6** — *archive only*: surname of any Wikidata person with Lithuanian
   citizenship (includes naturalized citizens / Polish-Lithuanians — not a
-  strong signal)
+  strong signal; not emitted by default)
 
 Caveats: donors with fully anglicized or married surnames are invisible to
 any name-based method, and anonymous donations (≈30% here) are skipped.

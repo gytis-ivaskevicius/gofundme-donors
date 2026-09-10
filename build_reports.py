@@ -102,7 +102,6 @@ def main() -> int:
     top = sorted(agg.items(), key=lambda kv: -kv[1]["total"])[:25]
 
     summary = {
-        "generated_at": payload.get("generated_at"),
         "fundraiser_id": payload.get("fundraiser_id"),
         "total_donations": payload.get("total_count"),
         "anonymous_skipped": payload.get("anonymous_skipped"),
@@ -132,7 +131,6 @@ def main() -> int:
         f"{summary['unique_names']} unique names",
         f"- Amount (non-anon): **${summary['total_amount_usd']:,.2f}**",
         f"- Period: {summary['date_first']} → {summary['date_last']}",
-        f"- Generated: {summary['generated_at']}",
         "",
         f"## Lithuanian candidates ({len(lith_main)})",
         "",

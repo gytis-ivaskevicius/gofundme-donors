@@ -4,7 +4,6 @@
 - Non-anonymous: **25247** in 24162 unique names
 - Amount (non-anon): **$881,367.00**
 - Period: 2026-08-11T18:04:27.000-05:00 → 2026-09-10T07:39:14.000-05:00
-- Generated: 2026-09-10T15:09:56.844226+00:00
 
 ## Lithuanian candidates (31)
 

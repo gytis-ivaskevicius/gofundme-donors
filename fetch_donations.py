@@ -184,7 +184,6 @@ def main() -> int:
     anon_estimate = max(0, (total_count or 0) - len(donations))
 
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
         "fundraiser_slug": args.slug,
         "fundraiser_id": fundraiser_id,
         "total_count": total_count,
@@ -195,6 +194,11 @@ def main() -> int:
         "donations": donations,
     }
     path.write_text(json.dumps(payload, indent=1, ensure_ascii=False))
+    (out_dir / ".last_run.json").write_text(json.dumps({
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "new_this_run": len(new_rows),
+        "total_count": total_count,
+    }, indent=1))
     print(
         f"DONE: {len(new_rows)} new donations; total stored {len(donations)} "
         f"of {total_count} (mode={mode}) -> {path}",

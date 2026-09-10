@@ -46,7 +46,7 @@ def main() -> int:
     )
 
     with (DATA / "non_anonymous_donations.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator='\n')
         w.writerow(["id", "name", "amount", "currency", "createdAt",
                     "isOffline", "isRecurring", "isVerified"])
         for r in rows_sorted:
@@ -70,7 +70,7 @@ def main() -> int:
         for n, _ in unique:
             f.write(n + "\n")
     with (DATA / "names_unique.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator='\n')
         w.writerow(["name", "donation_count", "total_amount", "currencies"])
         for n, a in unique:
             w.writerow([n, a["count"], round(a["total"], 2),
@@ -84,13 +84,13 @@ def main() -> int:
             tiers[tier].append((n, agg[n]))
     order = ["T1", "T2", "T3", "T4", "T5"]
     with (DATA / "lithuanian.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator='\n')
         w.writerow(["tier", "name", "total_amount", "donation_count", "evidence"])
         for t in order:
             for n, a in sorted(tiers[t], key=lambda x: (-x[1]["total"], x[0].lower())):
                 w.writerow([t, n, round(a["total"], 2), a["count"], ""])
     with (DATA / "lithuanian_archive.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator='\n')
         w.writerow(["name", "total_amount", "donation_count"])
         for n, a in sorted(tiers["T6"], key=lambda x: (-x[1]["total"], x[0].lower())):
             w.writerow([n, round(a["total"], 2), a["count"]])

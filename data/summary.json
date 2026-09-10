@@ -1,0 +1,147 @@
+{
+ "generated_at": "2026-09-10T15:09:56.844226+00:00",
+ "fundraiser_id": "106954089",
+ "total_donations": 35766,
+ "anonymous_skipped": 10519,
+ "non_anonymous": 25247,
+ "unique_names": 24162,
+ "date_first": "2026-08-11T18:04:27.000-05:00",
+ "date_last": "2026-09-10T07:39:14.000-05:00",
+ "total_amount_usd": 881367.0,
+ "lithuanian_candidates": 31,
+ "lithuanian_total_usd": 993.0,
+ "lithuanian_by_tier": {
+  "T1": 6,
+  "T2": 17,
+  "T3": 5,
+  "T4": 2,
+  "T5": 1
+ },
+ "top_donors": [
+  {
+   "name": "Jane Knop",
+   "total": 7101.0,
+   "count": 8
+  },
+  {
+   "name": "Janet Pescio",
+   "total": 5000.0,
+   "count": 1
+  },
+  {
+   "name": "Nicole Klaucens",
+   "total": 5000.0,
+   "count": 1
+  },
+  {
+   "name": "Luisa Espinosa Davila",
+   "total": 2500.0,
+   "count": 1
+  },
+  {
+   "name": "Candice Patton",
+   "total": 2032.0,
+   "count": 1
+  },
+  {
+   "name": "Wing lam Chan",
+   "total": 2016.0,
+   "count": 1
+  },
+  {
+   "name": "Elizabeth Carlson",
+   "total": 1600.0,
+   "count": 1
+  },
+  {
+   "name": "Emily Switzer",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Savannah Ferguson",
+   "total": 1000.0,
+   "count": 2
+  },
+  {
+   "name": "Margaret Ouellette",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Clarissa Lee",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Caitlin Carroll",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Greesah Butti Omeir",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Whitney Wilbanks",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Kim Wilkinson",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "hugo cazares",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Megan Lally",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Timothy Garner",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Danielle Bennison Brown",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Theresa THIELEN",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Kimberley Anthony",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Laura Hanson",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Karen Hanson",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Stephanie Masse",
+   "total": 1000.0,
+   "count": 1
+  },
+  {
+   "name": "Michelle Hitchcock Kriss",
+   "total": 888.0,
+   "count": 1
+  }
+ ]
+}

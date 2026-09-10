@@ -1,0 +1,56 @@
+name: update-donors
+
+on:
+  schedule:
+    # nightly 03:17 UTC
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: Full refetch of the entire donation history
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: donor-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch donations
+        run: |
+          FLAGS=""
+          if [ "${{ inputs.full }}" = "true" ]; then FLAGS="--full"; fi
+          python3 fetch_donations.py --slug "${GFM_SLUG:-support-for-lindsay-clancys-parents}" $FLAGS
+        env:
+          GFM_SLUG: ${{ vars.GFM_SLUG }}
+
+      - name: Build reports
+        run: python3 build_reports.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: refresh donor data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

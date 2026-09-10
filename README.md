@@ -41,9 +41,9 @@ Evidence tiers (`lithuanian.py`), strongest first:
 - **T3** — feminine suffix (`-aitė/-ytė/-ienė`) + supporting evidence
 - **T4** — anglicized spelling (w-for-v, e.g. `Wychunas` for `Vyčiūnas`)
 - **T5** — distinctive Lithuanian given name only (verify manually)
-- **T6** — *archive only*: surname of any Wikidata person with Lithuanian
-  citizenship (includes naturalized citizens / Polish-Lithuanians — not a
-  strong signal; not emitted by default)
+- **T6** — *not emitted*: surname of any Wikidata person with Lithuanian
+  citizenship (includes naturalized citizens / Polish-Lithuanians — too noisy
+  for the output; kept in the classifier only).
 
 Caveats: donors with fully anglicized or married surnames are invisible to
 any name-based method, and anonymous donations (≈30% here) are skipped.
@@ -59,7 +59,7 @@ python3 build_reports.py
 ## Configuration
 
 - **Change campaign**: set repo variable `GFM_SLUG` (Settings → Secrets and
-  variables → Actions → Variables). Rum `workflow_dispatch` to refresh now.
+  variables → Actions → Variables). Run `workflow_dispatch` to refresh now.
 
 All donor names come from GoFundMe's public campaign page — the data is
 already public. No private or anonymous donor information is included.

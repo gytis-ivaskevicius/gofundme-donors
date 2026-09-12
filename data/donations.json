@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 35806,
- "anonymous_skipped": 10528,
- "non_anonymous": 25278,
- "new_this_run": 31,
+ "total_count": 35831,
+ "anonymous_skipped": 10531,
+ "non_anonymous": 25300,
+ "new_this_run": 22,
  "mode": "incremental",
  "donations": [
   {
@@ -176952,6 +176952,160 @@
    "amount": 20.0,
    "currency": "USD",
    "createdAt": "2026-09-11T00:52:41.000-05:00"
+  },
+  {
+   "id": "1571159783",
+   "name": "Jane Knop",
+   "amount": 333.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T05:51:16.000-05:00"
+  },
+  {
+   "id": "1571235635",
+   "name": "Pamela Bolden",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T09:28:01.000-05:00"
+  },
+  {
+   "id": "1571239069",
+   "name": "Barbara Helfer",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T09:35:57.000-05:00"
+  },
+  {
+   "id": "1571320173",
+   "name": "Jill Perreault",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T12:42:20.000-05:00"
+  },
+  {
+   "id": "1571328401",
+   "name": "Stephanie Whitworth",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T13:00:12.000-05:00"
+  },
+  {
+   "id": "1571347237",
+   "name": "Mun Yee Wong",
+   "amount": 15.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T13:41:53.000-05:00"
+  },
+  {
+   "id": "1571373341",
+   "name": "Jodie McGuinness",
+   "amount": 22.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T14:38:54.000-05:00"
+  },
+  {
+   "id": "1571385627",
+   "name": "Helen Cavill",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T15:04:50.000-05:00"
+  },
+  {
+   "id": "1571386047",
+   "name": "Kathleen Leonard",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T15:05:54.000-05:00"
+  },
+  {
+   "id": "1571391887",
+   "name": "Kathleen Leonard",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T15:18:27.000-05:00"
+  },
+  {
+   "id": "1571406817",
+   "name": "Julie Spiliotis",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T15:51:08.000-05:00"
+  },
+  {
+   "id": "1571422669",
+   "name": "Tammy Hunter",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T16:27:11.000-05:00"
+  },
+  {
+   "id": "1571426605",
+   "name": "Natalia Suescun",
+   "amount": 7.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T16:36:20.000-05:00"
+  },
+  {
+   "id": "1571440713",
+   "name": "Natasha Bilodeau",
+   "amount": 36.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T17:11:50.000-05:00"
+  },
+  {
+   "id": "1571447667",
+   "name": "Beth Riley",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T17:29:57.000-05:00"
+  },
+  {
+   "id": "1571463203",
+   "name": "Janet Morandin",
+   "amount": 18.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T18:08:53.000-05:00"
+  },
+  {
+   "id": "1571480575",
+   "name": "Angela Ponomarenko",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T18:56:34.000-05:00"
+  },
+  {
+   "id": "1571486117",
+   "name": "irasema mirozotli munoz  López",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T19:12:34.000-05:00"
+  },
+  {
+   "id": "1571520677",
+   "name": "Ambrosia Eberhardt",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T20:57:04.000-05:00"
+  },
+  {
+   "id": "1571534461",
+   "name": "Megan Leavens",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T21:44:13.000-05:00"
+  },
+  {
+   "id": "1571555293",
+   "name": "Andrea Uneless",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-11T23:14:16.000-05:00"
+  },
+  {
+   "id": "1571574313",
+   "name": "Justin Bro",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-12T01:04:44.000-05:00"
   }
  ]
 }

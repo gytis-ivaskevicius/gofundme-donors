@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 35882,
- "anonymous_skipped": 10551,
- "non_anonymous": 25331,
- "new_this_run": 21,
+ "total_count": 35904,
+ "anonymous_skipped": 10559,
+ "non_anonymous": 25345,
+ "new_this_run": 14,
  "mode": "incremental",
  "donations": [
   {
@@ -177323,6 +177323,104 @@
    "amount": 25.0,
    "currency": "USD",
    "createdAt": "2026-09-13T23:44:48.000-05:00"
+  },
+  {
+   "id": "1572390135",
+   "name": "Annette Farkas",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T05:53:23.000-05:00"
+  },
+  {
+   "id": "1572405603",
+   "name": "Taylor Anderson",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T07:02:21.000-05:00"
+  },
+  {
+   "id": "1572450537",
+   "name": "Patricia King",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T09:30:58.000-05:00"
+  },
+  {
+   "id": "1572471615",
+   "name": "Julie Schwarzentraub",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T10:32:17.000-05:00"
+  },
+  {
+   "id": "1572567315",
+   "name": "Katrina Blea",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T14:23:00.000-05:00"
+  },
+  {
+   "id": "1572600765",
+   "name": "Ashley Mavracic",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T15:31:36.000-05:00"
+  },
+  {
+   "id": "1572678293",
+   "name": "Josianne Couture",
+   "amount": 36.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T18:41:00.000-05:00"
+  },
+  {
+   "id": "1572691549",
+   "name": "Bob Knapp",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T19:16:01.000-05:00"
+  },
+  {
+   "id": "1572707817",
+   "name": "Patricia Westcott",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T20:00:01.000-05:00"
+  },
+  {
+   "id": "1572742635",
+   "name": "Dana Berner",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T21:34:47.000-05:00"
+  },
+  {
+   "id": "1572764261",
+   "name": "Jessica Procopio",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T22:48:49.000-05:00"
+  },
+  {
+   "id": "1572767577",
+   "name": "Linet Keshishian",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T23:01:48.000-05:00"
+  },
+  {
+   "id": "1572768015",
+   "name": "Rav Bains",
+   "amount": 72.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T23:03:27.000-05:00"
+  },
+  {
+   "id": "1572777767",
+   "name": "lynda stillie",
+   "amount": 8.0,
+   "currency": "USD",
+   "createdAt": "2026-09-14T23:48:17.000-05:00"
   }
  ]
 }

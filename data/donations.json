@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 35904,
- "anonymous_skipped": 10559,
- "non_anonymous": 25345,
- "new_this_run": 14,
+ "total_count": 35943,
+ "anonymous_skipped": 10567,
+ "non_anonymous": 25376,
+ "new_this_run": 31,
  "mode": "incremental",
  "donations": [
   {
@@ -177421,6 +177421,223 @@
    "amount": 8.0,
    "currency": "USD",
    "createdAt": "2026-09-14T23:48:17.000-05:00"
+  },
+  {
+   "id": "1572850165",
+   "name": "Ingela Fagerström",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T06:22:20.000-05:00"
+  },
+  {
+   "id": "1572869495",
+   "name": "Christina Gobbett Guetin",
+   "amount": 57.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T07:33:25.000-05:00"
+  },
+  {
+   "id": "1572934215",
+   "name": "Lynnette Halm",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T10:38:33.000-05:00"
+  },
+  {
+   "id": "1572935561",
+   "name": "Karen Johnson",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T10:42:01.000-05:00"
+  },
+  {
+   "id": "1572940505",
+   "name": "sara Izadi",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T10:55:00.000-05:00"
+  },
+  {
+   "id": "1572946781",
+   "name": "Talita Menezes",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T11:11:01.000-05:00"
+  },
+  {
+   "id": "1572973485",
+   "name": "ROBERTA WONDERS",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T12:15:13.000-05:00"
+  },
+  {
+   "id": "1572998677",
+   "name": "Megan Mayer",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T13:14:01.000-05:00"
+  },
+  {
+   "id": "1573004537",
+   "name": "Laura Murphy",
+   "amount": 33.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T13:28:15.000-05:00"
+  },
+  {
+   "id": "1573007873",
+   "name": "Kharli Brockmeier",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T13:35:01.000-05:00"
+  },
+  {
+   "id": "1573025919",
+   "name": "Rachel Hansen",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T14:15:01.000-05:00"
+  },
+  {
+   "id": "1573029095",
+   "name": "Christine Bellini",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T14:22:01.000-05:00"
+  },
+  {
+   "id": "1573032959",
+   "name": "Anna Tennilä",
+   "amount": 28.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T14:30:33.000-05:00"
+  },
+  {
+   "id": "1573060551",
+   "name": "Melody Verduzco",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T15:32:00.000-05:00"
+  },
+  {
+   "id": "1573066099",
+   "name": "Tiffany Robles",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T15:45:00.000-05:00"
+  },
+  {
+   "id": "1573083121",
+   "name": "Deidre Burress",
+   "amount": 27.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T16:24:48.000-05:00"
+  },
+  {
+   "id": "1573095743",
+   "name": "Kerry Gilham",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T16:53:58.000-05:00"
+  },
+  {
+   "id": "1573107361",
+   "name": "Chloe Kim",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T17:23:00.000-05:00"
+  },
+  {
+   "id": "1573112199",
+   "name": "Sarah Lindquist",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T17:36:00.000-05:00"
+  },
+  {
+   "id": "1573136777",
+   "name": "Michelle Williams",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T18:40:13.000-05:00"
+  },
+  {
+   "id": "1573164155",
+   "name": "corey autry",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T19:49:00.000-05:00"
+  },
+  {
+   "id": "1573165065",
+   "name": "Nicole Kaye",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T19:51:12.000-05:00"
+  },
+  {
+   "id": "1573173533",
+   "name": "Anjanette Silas",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T20:11:51.000-05:00"
+  },
+  {
+   "id": "1573212899",
+   "name": "Amy Schuhmacher",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T21:56:22.000-05:00"
+  },
+  {
+   "id": "1573215657",
+   "name": "Amy Nesbitt",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T22:05:00.000-05:00"
+  },
+  {
+   "id": "1573231891",
+   "name": "Sofia Aguirre",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T23:04:00.000-05:00"
+  },
+  {
+   "id": "1573232611",
+   "name": "Brandi Winfrey",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T23:07:01.000-05:00"
+  },
+  {
+   "id": "1573233543",
+   "name": "Jane Knop",
+   "amount": 888.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T23:10:46.000-05:00"
+  },
+  {
+   "id": "1573240005",
+   "name": "Rebecca Walker",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-15T23:40:45.000-05:00"
+  },
+  {
+   "id": "1573247221",
+   "name": "Dina White",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-16T00:17:46.000-05:00"
+  },
+  {
+   "id": "1573278537",
+   "name": "Connor Abernathy",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-16T03:09:01.000-05:00"
   }
  ]
 }

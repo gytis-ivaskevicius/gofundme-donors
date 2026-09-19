@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36022,
- "anonymous_skipped": 10589,
- "non_anonymous": 25433,
- "new_this_run": 19,
+ "total_count": 36039,
+ "anonymous_skipped": 10595,
+ "non_anonymous": 25444,
+ "new_this_run": 11,
  "mode": "incremental",
  "donations": [
   {
@@ -178037,6 +178037,83 @@
    "amount": 5.0,
    "currency": "USD",
    "createdAt": "2026-09-18T01:18:46.000-05:00"
+  },
+  {
+   "id": "1574346321",
+   "name": "adele maneikis",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T10:23:04.000-05:00"
+  },
+  {
+   "id": "1574347797",
+   "name": "Justine McKnight",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T10:26:29.000-05:00"
+  },
+  {
+   "id": "1574353975",
+   "name": "Meghan Rogers",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T10:40:02.000-05:00"
+  },
+  {
+   "id": "1574422751",
+   "name": "Kseniya Kreidzich",
+   "amount": 40.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T13:12:48.000-05:00"
+  },
+  {
+   "id": "1574460141",
+   "name": "Lisa SOULE",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T14:37:03.000-05:00"
+  },
+  {
+   "id": "1574529087",
+   "name": "Allison Ortega Seo",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T17:13:40.000-05:00"
+  },
+  {
+   "id": "1574533821",
+   "name": "Renee Holmes",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T17:25:01.000-05:00"
+  },
+  {
+   "id": "1574534155",
+   "name": "Ashley Ward",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T17:25:56.000-05:00"
+  },
+  {
+   "id": "1574546275",
+   "name": "Kisha Johnson",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T17:57:28.000-05:00"
+  },
+  {
+   "id": "1574574821",
+   "name": "Stephanie Forcier",
+   "amount": 35.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T19:17:21.000-05:00"
+  },
+  {
+   "id": "1574620225",
+   "name": "Molly Kortuem",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-18T21:39:15.000-05:00"
   }
  ]
 }

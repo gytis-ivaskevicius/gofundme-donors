@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36039,
- "anonymous_skipped": 10595,
- "non_anonymous": 25444,
- "new_this_run": 11,
+ "total_count": 36061,
+ "anonymous_skipped": 10607,
+ "non_anonymous": 25454,
+ "new_this_run": 10,
  "mode": "incremental",
  "donations": [
   {
@@ -178114,6 +178114,76 @@
    "amount": 50.0,
    "currency": "USD",
    "createdAt": "2026-09-18T21:39:15.000-05:00"
+  },
+  {
+   "id": "1574759981",
+   "name": "Katalin Stappenbeck",
+   "amount": 28.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T09:15:02.000-05:00"
+  },
+  {
+   "id": "1574765085",
+   "name": "Jessica Aminzadeh",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T09:30:23.000-05:00"
+  },
+  {
+   "id": "1574785053",
+   "name": "Becca Ehlers",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T10:26:47.000-05:00"
+  },
+  {
+   "id": "1574853755",
+   "name": "Jennifer Morris",
+   "amount": 26.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T13:33:26.000-05:00"
+  },
+  {
+   "id": "1574909053",
+   "name": "Michael Cole",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T15:59:19.000-05:00"
+  },
+  {
+   "id": "1574915283",
+   "name": "Monika Lige",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T16:17:01.000-05:00"
+  },
+  {
+   "id": "1574947699",
+   "name": "Cathleen Burke",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T17:55:00.000-05:00"
+  },
+  {
+   "id": "1574965173",
+   "name": "Diana Fatula",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T18:54:00.000-05:00"
+  },
+  {
+   "id": "1574979977",
+   "name": "Michelle Bradbury",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-19T19:47:02.000-05:00"
+  },
+  {
+   "id": "1575035621",
+   "name": "jennifer moore",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-20T00:08:00.000-05:00"
   }
  ]
 }

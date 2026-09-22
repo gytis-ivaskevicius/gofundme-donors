@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36073,
- "anonymous_skipped": 10611,
- "non_anonymous": 25462,
- "new_this_run": 8,
+ "total_count": 36084,
+ "anonymous_skipped": 10610,
+ "non_anonymous": 25474,
+ "new_this_run": 12,
  "mode": "incremental",
  "donations": [
   {
@@ -178240,6 +178240,90 @@
    "amount": 25.0,
    "currency": "USD",
    "createdAt": "2026-09-21T00:08:00.000-05:00"
+  },
+  {
+   "id": "1575490243",
+   "name": "Leigh Collett",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T06:56:00.000-05:00"
+  },
+  {
+   "id": "1575582687",
+   "name": "Angela Humphries",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T11:41:08.000-05:00"
+  },
+  {
+   "id": "1575598195",
+   "name": "Dung Pham",
+   "amount": 66.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T12:20:10.000-05:00"
+  },
+  {
+   "id": "1575627005",
+   "name": "Roxanne Geldart",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T13:30:01.000-05:00"
+  },
+  {
+   "id": "1575683361",
+   "name": "Calysta Cumbo",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T15:39:33.000-05:00"
+  },
+  {
+   "id": "1575685179",
+   "name": "Katsuko Yamanishi",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T15:43:49.000-05:00"
+  },
+  {
+   "id": "1575740739",
+   "name": "marci holley",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T18:10:00.000-05:00"
+  },
+  {
+   "id": "1575764857",
+   "name": "Alexandra Engel",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T19:19:00.000-05:00"
+  },
+  {
+   "id": "1575775649",
+   "name": "Pauly Johnson",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T19:48:06.000-05:00"
+  },
+  {
+   "id": "1575776805",
+   "name": "Bethany Shufran",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T19:51:00.000-05:00"
+  },
+  {
+   "id": "1575787059",
+   "name": "Vanessa Howell",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-09-21T20:16:55.000-05:00"
+  },
+  {
+   "id": "1575857313",
+   "name": "Elise Lapham",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T00:24:04.000-05:00"
   }
  ]
 }

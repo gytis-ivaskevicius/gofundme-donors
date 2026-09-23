@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36084,
- "anonymous_skipped": 10610,
- "non_anonymous": 25474,
- "new_this_run": 12,
+ "total_count": 36092,
+ "anonymous_skipped": 10611,
+ "non_anonymous": 25481,
+ "new_this_run": 7,
  "mode": "incremental",
  "donations": [
   {
@@ -178324,6 +178324,55 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-09-22T00:24:04.000-05:00"
+  },
+  {
+   "id": "1576009701",
+   "name": "Joy Thomas",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T10:22:05.000-05:00"
+  },
+  {
+   "id": "1576090943",
+   "name": "Arthur Milward",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T13:30:00.000-05:00"
+  },
+  {
+   "id": "1576111685",
+   "name": "Amy Schuhmacher",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T14:13:20.000-05:00"
+  },
+  {
+   "id": "1576173961",
+   "name": "Isabella Lamb",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T16:25:50.000-05:00"
+  },
+  {
+   "id": "1576184257",
+   "name": "Ewelina Zysk",
+   "amount": 7.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T16:49:44.000-05:00"
+  },
+  {
+   "id": "1576260231",
+   "name": "Karon Layfield",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-09-22T20:07:29.000-05:00"
+  },
+  {
+   "id": "1576368351",
+   "name": "Cynthia Ray",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T03:31:38.000-05:00"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36092,
- "anonymous_skipped": 10611,
- "non_anonymous": 25481,
- "new_this_run": 7,
+ "total_count": 36098,
+ "anonymous_skipped": 10612,
+ "non_anonymous": 25486,
+ "new_this_run": 5,
  "mode": "incremental",
  "donations": [
   {
@@ -178373,6 +178373,41 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-09-23T03:31:38.000-05:00"
+  },
+  {
+   "id": "1576402919",
+   "name": "Child Strangler",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T06:17:02.000-05:00"
+  },
+  {
+   "id": "1576453225",
+   "name": "Jennifer Coe",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T08:50:26.000-05:00"
+  },
+  {
+   "id": "1576538509",
+   "name": "anna nguyen",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T12:25:54.000-05:00"
+  },
+  {
+   "id": "1576566311",
+   "name": "Tiffany Bracamonte",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T13:27:59.000-05:00"
+  },
+  {
+   "id": "1576769585",
+   "name": "Christine Avendaño",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-09-23T20:57:17.000-05:00"
   }
  ]
 }

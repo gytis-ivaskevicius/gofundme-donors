@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36104,
- "anonymous_skipped": 10613,
- "non_anonymous": 25491,
- "new_this_run": 5,
+ "total_count": 36113,
+ "anonymous_skipped": 10614,
+ "non_anonymous": 25499,
+ "new_this_run": 8,
  "mode": "incremental",
  "donations": [
   {
@@ -178443,6 +178443,62 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-09-24T23:55:35.000-05:00"
+  },
+  {
+   "id": "1577436779",
+   "name": "Timothy Cush",
+   "amount": 14.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T06:34:00.000-05:00"
+  },
+  {
+   "id": "1577655545",
+   "name": "Meggan Gardner",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T14:58:00.000-05:00"
+  },
+  {
+   "id": "1577671357",
+   "name": "Patrice Adams",
+   "amount": 23.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T15:31:19.000-05:00"
+  },
+  {
+   "id": "1577696955",
+   "name": "Justine Vedmore",
+   "amount": 26.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T16:29:26.000-05:00"
+  },
+  {
+   "id": "1577708547",
+   "name": "Rachael Hall",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T16:57:53.000-05:00"
+  },
+  {
+   "id": "1577771553",
+   "name": "Annette Walther",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T19:48:59.000-05:00"
+  },
+  {
+   "id": "1577778203",
+   "name": "Erin Epstein",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T20:08:11.000-05:00"
+  },
+  {
+   "id": "1577817507",
+   "name": "Kyla Salyer",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-25T22:15:37.000-05:00"
   }
  ]
 }

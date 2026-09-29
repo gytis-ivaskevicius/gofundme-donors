@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36129,
- "anonymous_skipped": 10623,
- "non_anonymous": 25506,
- "new_this_run": 2,
+ "total_count": 36132,
+ "anonymous_skipped": 10625,
+ "non_anonymous": 25507,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -178548,6 +178548,13 @@
    "amount": 50.0,
    "currency": "USD",
    "createdAt": "2026-09-28T04:29:06.000-05:00"
+  },
+  {
+   "id": "1578722315",
+   "name": "Krista Anderson",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-28T10:05:51.000-05:00"
   }
  ]
 }

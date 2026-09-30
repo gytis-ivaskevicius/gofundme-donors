@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36132,
- "anonymous_skipped": 10625,
- "non_anonymous": 25507,
- "new_this_run": 1,
+ "total_count": 36146,
+ "anonymous_skipped": 10629,
+ "non_anonymous": 25517,
+ "new_this_run": 10,
  "mode": "incremental",
  "donations": [
   {
@@ -178555,6 +178555,76 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-09-28T10:05:51.000-05:00"
+  },
+  {
+   "id": "1579155127",
+   "name": "Jackie Delk",
+   "amount": 9.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T09:15:26.000-05:00"
+  },
+  {
+   "id": "1579300231",
+   "name": "Latisha Yotadee",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T15:05:00.000-05:00"
+  },
+  {
+   "id": "1579390755",
+   "name": "Elise Ethington",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T18:46:48.000-05:00"
+  },
+  {
+   "id": "1579401269",
+   "name": "Elizabeth Jagoe",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T19:14:16.000-05:00"
+  },
+  {
+   "id": "1579404009",
+   "name": "Shanna Brown",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T19:21:22.000-05:00"
+  },
+  {
+   "id": "1579412065",
+   "name": "Angela Jenkins",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T19:41:03.000-05:00"
+  },
+  {
+   "id": "1579452599",
+   "name": "Maria Hawkins",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-29T21:28:22.000-05:00"
+  },
+  {
+   "id": "1579495935",
+   "name": "Lacey Laube",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T00:27:32.000-05:00"
+  },
+  {
+   "id": "1579523395",
+   "name": "Michele M Riberdy",
+   "amount": 300.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T03:00:34.000-05:00"
+  },
+  {
+   "id": "1579533227",
+   "name": "Isabelle Slattery",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T03:57:19.000-05:00"
   }
  ]
 }

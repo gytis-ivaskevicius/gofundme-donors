@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36146,
- "anonymous_skipped": 10629,
- "non_anonymous": 25517,
- "new_this_run": 10,
+ "total_count": 36171,
+ "anonymous_skipped": 10640,
+ "non_anonymous": 25531,
+ "new_this_run": 14,
  "mode": "incremental",
  "donations": [
   {
@@ -178625,6 +178625,104 @@
    "amount": 5.0,
    "currency": "USD",
    "createdAt": "2026-09-30T03:57:19.000-05:00"
+  },
+  {
+   "id": "1579591187",
+   "name": "Angela Conte-Gentile",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T07:54:47.000-05:00"
+  },
+  {
+   "id": "1579594571",
+   "name": "Elizabeth Wallace",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T08:05:14.000-05:00"
+  },
+  {
+   "id": "1579605541",
+   "name": "Linda MacDonald",
+   "amount": 6.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T08:37:00.000-05:00"
+  },
+  {
+   "id": "1579607923",
+   "name": "Angela Jenkins",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T08:43:54.000-05:00"
+  },
+  {
+   "id": "1579608201",
+   "name": "Angela Jenkins",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T08:44:39.000-05:00"
+  },
+  {
+   "id": "1579628595",
+   "name": "Laura Zink",
+   "amount": 180.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T09:39:12.000-05:00"
+  },
+  {
+   "id": "1579630379",
+   "name": "Bree Bixby",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T09:44:00.000-05:00"
+  },
+  {
+   "id": "1579673459",
+   "name": "Cindy Owens Gorham",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T11:31:00.000-05:00"
+  },
+  {
+   "id": "1579707925",
+   "name": "Paige Drnek",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T12:50:02.000-05:00"
+  },
+  {
+   "id": "1579722719",
+   "name": "Karen Urbina",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T13:21:25.000-05:00"
+  },
+  {
+   "id": "1579786635",
+   "name": "Sharon Spencer",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T15:28:01.000-05:00"
+  },
+  {
+   "id": "1579793609",
+   "name": "Mike Wynn",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T15:41:22.000-05:00"
+  },
+  {
+   "id": "1579809149",
+   "name": "Travis Kelsey",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T16:11:02.000-05:00"
+  },
+  {
+   "id": "1579896361",
+   "name": "Courtney Craft-Smith",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-09-30T19:35:59.000-05:00"
   }
  ]
 }

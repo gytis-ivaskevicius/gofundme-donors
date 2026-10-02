@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36171,
+ "total_count": 36187,
  "anonymous_skipped": 10640,
- "non_anonymous": 25531,
- "new_this_run": 14,
+ "non_anonymous": 25547,
+ "new_this_run": 16,
  "mode": "incremental",
  "donations": [
   {
@@ -178723,6 +178723,118 @@
    "amount": 25.0,
    "currency": "USD",
    "createdAt": "2026-09-30T19:35:59.000-05:00"
+  },
+  {
+   "id": "1580132729",
+   "name": "Emily Beaulieu",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T09:32:24.000-05:00"
+  },
+  {
+   "id": "1580139255",
+   "name": "Isabella Lamb",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T09:48:19.000-05:00"
+  },
+  {
+   "id": "1580155093",
+   "name": "Liora Grumberg",
+   "amount": 72.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T10:25:24.000-05:00"
+  },
+  {
+   "id": "1580170157",
+   "name": "Cori Pansarasa",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T10:58:29.000-05:00"
+  },
+  {
+   "id": "1580170935",
+   "name": "Crystal Schild",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T10:59:54.000-05:00"
+  },
+  {
+   "id": "1580316417",
+   "name": "Jane Knop",
+   "amount": 888.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T15:52:00.000-05:00"
+  },
+  {
+   "id": "1580322089",
+   "name": "Kim Thompson",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T16:03:35.000-05:00"
+  },
+  {
+   "id": "1580394709",
+   "name": "Alysia Potts",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T18:53:28.000-05:00"
+  },
+  {
+   "id": "1580400749",
+   "name": "Renee Naples",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T19:07:50.000-05:00"
+  },
+  {
+   "id": "1580407549",
+   "name": "Jodi ParisAnastos",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T19:24:58.000-05:00"
+  },
+  {
+   "id": "1580413313",
+   "name": "Laura Johnson",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T19:39:00.000-05:00"
+  },
+  {
+   "id": "1580485353",
+   "name": "Ana Donis",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T23:06:53.000-05:00"
+  },
+  {
+   "id": "1580486701",
+   "name": "Marie-Pierre Laëns",
+   "amount": 70.0,
+   "currency": "USD",
+   "createdAt": "2026-10-01T23:12:50.000-05:00"
+  },
+  {
+   "id": "1580498297",
+   "name": "Leah Harding",
+   "amount": 19.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T00:05:54.000-05:00"
+  },
+  {
+   "id": "1580511311",
+   "name": "Juliet Swanepoel",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T01:11:29.000-05:00"
+  },
+  {
+   "id": "1580521039",
+   "name": "Jessica Boeve",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T02:01:00.000-05:00"
   }
  ]
 }

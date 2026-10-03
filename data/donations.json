@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36187,
- "anonymous_skipped": 10640,
- "non_anonymous": 25547,
- "new_this_run": 16,
+ "total_count": 36201,
+ "anonymous_skipped": 10649,
+ "non_anonymous": 25552,
+ "new_this_run": 5,
  "mode": "incremental",
  "donations": [
   {
@@ -178835,6 +178835,41 @@
    "amount": 11.0,
    "currency": "USD",
    "createdAt": "2026-10-02T02:01:00.000-05:00"
+  },
+  {
+   "id": "1580636191",
+   "name": "Amanda Domurad",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T09:01:37.000-05:00"
+  },
+  {
+   "id": "1580734279",
+   "name": "Sarah Barker",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T12:45:12.000-05:00"
+  },
+  {
+   "id": "1580922607",
+   "name": "Sylvia Benoit",
+   "amount": 7.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T19:58:11.000-05:00"
+  },
+  {
+   "id": "1580963457",
+   "name": "Brandee Mulligan",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T22:04:41.000-05:00"
+  },
+  {
+   "id": "1580966303",
+   "name": "Taylor Beus",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-02T22:15:12.000-05:00"
   }
  ]
 }

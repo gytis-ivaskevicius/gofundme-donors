@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36201,
- "anonymous_skipped": 10649,
- "non_anonymous": 25552,
- "new_this_run": 5,
+ "total_count": 36207,
+ "anonymous_skipped": 10651,
+ "non_anonymous": 25556,
+ "new_this_run": 4,
  "mode": "incremental",
  "donations": [
   {
@@ -178870,6 +178870,34 @@
    "amount": 5.0,
    "currency": "USD",
    "createdAt": "2026-10-02T22:15:12.000-05:00"
+  },
+  {
+   "id": "1581131175",
+   "name": "cynthia OBERDAN",
+   "amount": 35.0,
+   "currency": "USD",
+   "createdAt": "2026-10-03T09:41:49.000-05:00"
+  },
+  {
+   "id": "1581150625",
+   "name": "charlotte Giles",
+   "amount": 33.0,
+   "currency": "USD",
+   "createdAt": "2026-10-03T10:31:45.000-05:00"
+  },
+  {
+   "id": "1581347107",
+   "name": "Cheyenne Owens",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-03T19:58:17.000-05:00"
+  },
+  {
+   "id": "1581395803",
+   "name": "Katherine Boyette",
+   "amount": 15.0,
+   "currency": "USD",
+   "createdAt": "2026-10-03T23:52:01.000-05:00"
   }
  ]
 }

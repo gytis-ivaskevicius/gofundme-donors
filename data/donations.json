@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36207,
- "anonymous_skipped": 10651,
- "non_anonymous": 25556,
- "new_this_run": 4,
+ "total_count": 36218,
+ "anonymous_skipped": 10656,
+ "non_anonymous": 25562,
+ "new_this_run": 6,
  "mode": "incremental",
  "donations": [
   {
@@ -178898,6 +178898,48 @@
    "amount": 15.0,
    "currency": "USD",
    "createdAt": "2026-10-03T23:52:01.000-05:00"
+  },
+  {
+   "id": "1581508423",
+   "name": "Jenny Lane",
+   "amount": 26.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T09:42:36.000-05:00"
+  },
+  {
+   "id": "1581559549",
+   "name": "Sylvia Benoit",
+   "amount": 7.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T12:12:35.000-05:00"
+  },
+  {
+   "id": "1581596075",
+   "name": "Amber Britt",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T13:49:00.000-05:00"
+  },
+  {
+   "id": "1581677531",
+   "name": "Veronica Rodrigues",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T17:27:00.000-05:00"
+  },
+  {
+   "id": "1581683327",
+   "name": "Gemma Townsend",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T17:46:31.000-05:00"
+  },
+  {
+   "id": "1581767345",
+   "name": "Isabella Lamb",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-04T23:38:47.000-05:00"
   }
  ]
 }

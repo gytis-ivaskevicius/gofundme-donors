@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36218,
- "anonymous_skipped": 10656,
- "non_anonymous": 25562,
- "new_this_run": 6,
+ "total_count": 36231,
+ "anonymous_skipped": 10659,
+ "non_anonymous": 25572,
+ "new_this_run": 10,
  "mode": "incremental",
  "donations": [
   {
@@ -178940,6 +178940,76 @@
    "amount": 25.0,
    "currency": "USD",
    "createdAt": "2026-10-04T23:38:47.000-05:00"
+  },
+  {
+   "id": "1581896423",
+   "name": "Barbara Munson",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T10:13:02.000-05:00"
+  },
+  {
+   "id": "1582011039",
+   "name": "Alexandra Weinert",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T15:04:01.000-05:00"
+  },
+  {
+   "id": "1582046083",
+   "name": "Evelyn Amaya-flores",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T16:28:05.000-05:00"
+  },
+  {
+   "id": "1582065375",
+   "name": "ZIHAN LI",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T17:22:00.000-05:00"
+  },
+  {
+   "id": "1582079171",
+   "name": "Jennifer Crochet",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T18:00:02.000-05:00"
+  },
+  {
+   "id": "1582130387",
+   "name": "Chantelle Lazarev",
+   "amount": 17.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T20:19:18.000-05:00"
+  },
+  {
+   "id": "1582158889",
+   "name": "Jennifer Price",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T21:39:03.000-05:00"
+  },
+  {
+   "id": "1582166525",
+   "name": "Christina Jones",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T22:05:02.000-05:00"
+  },
+  {
+   "id": "1582170997",
+   "name": "Anonymous Anon",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T22:22:00.000-05:00"
+  },
+  {
+   "id": "1582175959",
+   "name": "Patricia Woodrum",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-05T22:42:53.000-05:00"
   }
  ]
 }

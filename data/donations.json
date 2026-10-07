@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36231,
- "anonymous_skipped": 10659,
- "non_anonymous": 25572,
- "new_this_run": 10,
+ "total_count": 36235,
+ "anonymous_skipped": 10661,
+ "non_anonymous": 25574,
+ "new_this_run": 2,
  "mode": "incremental",
  "donations": [
   {
@@ -179010,6 +179010,20 @@
    "amount": 50.0,
    "currency": "USD",
    "createdAt": "2026-10-05T22:42:53.000-05:00"
+  },
+  {
+   "id": "1582422399",
+   "name": "ELVA TORRE",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-06T14:23:00.000-05:00"
+  },
+  {
+   "id": "1582452765",
+   "name": "Vicki Roman",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-06T15:31:25.000-05:00"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36235,
- "anonymous_skipped": 10661,
- "non_anonymous": 25574,
- "new_this_run": 2,
+ "total_count": 36237,
+ "anonymous_skipped": 10662,
+ "non_anonymous": 25575,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -179024,6 +179024,13 @@
    "amount": 5.0,
    "currency": "USD",
    "createdAt": "2026-10-06T15:31:25.000-05:00"
+  },
+  {
+   "id": "1583092931",
+   "name": "Emilie Moløkken",
+   "amount": 31.0,
+   "currency": "USD",
+   "createdAt": "2026-10-08T03:26:14.000-05:00"
   }
  ]
 }

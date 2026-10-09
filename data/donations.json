@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36237,
- "anonymous_skipped": 10662,
- "non_anonymous": 25575,
- "new_this_run": 1,
+ "total_count": 36241,
+ "anonymous_skipped": 10663,
+ "non_anonymous": 25578,
+ "new_this_run": 3,
  "mode": "incremental",
  "donations": [
   {
@@ -179031,6 +179031,27 @@
    "amount": 31.0,
    "currency": "USD",
    "createdAt": "2026-10-08T03:26:14.000-05:00"
+  },
+  {
+   "id": "1583441389",
+   "name": "Kristen Cox",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-10-08T19:04:37.000-05:00"
+  },
+  {
+   "id": "1583505209",
+   "name": "yadira hernandez",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-10-08T22:29:00.000-05:00"
+  },
+  {
+   "id": "1583579527",
+   "name": "I Support Lindsay No Matter What",
+   "amount": 500.0,
+   "currency": "USD",
+   "createdAt": "2026-10-09T04:22:06.000-05:00"
   }
  ]
 }

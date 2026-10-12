@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36245,
- "anonymous_skipped": 10664,
- "non_anonymous": 25581,
- "new_this_run": 2,
+ "total_count": 36252,
+ "anonymous_skipped": 10668,
+ "non_anonymous": 25584,
+ "new_this_run": 3,
  "mode": "incremental",
  "donations": [
   {
@@ -179073,6 +179073,27 @@
    "amount": 50.0,
    "currency": "USD",
    "createdAt": "2026-10-11T03:39:39.000-05:00"
+  },
+  {
+   "id": "1584492509",
+   "name": "Misty Horvath",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-11T10:53:20.000-05:00"
+  },
+  {
+   "id": "1584579403",
+   "name": "Heidi Hicks",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-11T14:45:14.000-05:00"
+  },
+  {
+   "id": "1584740131",
+   "name": "Jacqueline Hofmeister",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-12T01:47:04.000-05:00"
   }
  ]
 }

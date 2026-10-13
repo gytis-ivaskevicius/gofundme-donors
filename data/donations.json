@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36252,
- "anonymous_skipped": 10668,
- "non_anonymous": 25584,
- "new_this_run": 3,
+ "total_count": 36257,
+ "anonymous_skipped": 10671,
+ "non_anonymous": 25586,
+ "new_this_run": 2,
  "mode": "incremental",
  "donations": [
   {
@@ -179094,6 +179094,20 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-10-12T01:47:04.000-05:00"
+  },
+  {
+   "id": "1584856837",
+   "name": "Seidy Valerio",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-12T10:51:29.000-05:00"
+  },
+  {
+   "id": "1585015893",
+   "name": "Lina Keserauskaite",
+   "amount": 264.0,
+   "currency": "USD",
+   "createdAt": "2026-10-12T17:49:26.000-05:00"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36257,
+ "total_count": 36258,
  "anonymous_skipped": 10671,
- "non_anonymous": 25586,
- "new_this_run": 2,
+ "non_anonymous": 25587,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -179108,6 +179108,13 @@
    "amount": 264.0,
    "currency": "USD",
    "createdAt": "2026-10-12T17:49:26.000-05:00"
+  },
+  {
+   "id": "1585354471",
+   "name": "ELLEN ELLIOTT",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-10-13T14:27:03.000-05:00"
   }
  ]
 }

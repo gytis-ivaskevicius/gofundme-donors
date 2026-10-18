@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36293,
- "anonymous_skipped": 10678,
- "non_anonymous": 25615,
- "new_this_run": 17,
+ "total_count": 36306,
+ "anonymous_skipped": 10681,
+ "non_anonymous": 25625,
+ "new_this_run": 10,
  "mode": "incremental",
  "donations": [
   {
@@ -179311,6 +179311,76 @@
    "amount": 25.0,
    "currency": "USD",
    "createdAt": "2026-10-17T02:51:30.000-05:00"
+  },
+  {
+   "id": "1587026355",
+   "name": "Kendra Monahan",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T09:10:03.000-05:00"
+  },
+  {
+   "id": "1587069325",
+   "name": "Joanna Williams",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T11:04:00.000-05:00"
+  },
+  {
+   "id": "1587085661",
+   "name": "James Remus",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T11:46:02.000-05:00"
+  },
+  {
+   "id": "1587177257",
+   "name": "Leanne Pringle",
+   "amount": 139.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T15:48:50.000-05:00"
+  },
+  {
+   "id": "1587255815",
+   "name": "Valerie Hill",
+   "amount": 300.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T20:00:34.000-05:00"
+  },
+  {
+   "id": "1587256421",
+   "name": "Valerie Hill",
+   "amount": 300.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T20:02:39.000-05:00"
+  },
+  {
+   "id": "1587274557",
+   "name": "Chad Kennedy",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T21:11:00.000-05:00"
+  },
+  {
+   "id": "1587284003",
+   "name": "kayla rogers",
+   "amount": 15.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T21:50:55.000-05:00"
+  },
+  {
+   "id": "1587290815",
+   "name": "Wendy L",
+   "amount": 28.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T22:24:04.000-05:00"
+  },
+  {
+   "id": "1587304739",
+   "name": "April Grace Bendita",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-17T23:42:00.000-05:00"
   }
  ]
 }

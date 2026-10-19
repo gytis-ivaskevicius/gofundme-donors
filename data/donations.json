@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36306,
- "anonymous_skipped": 10681,
- "non_anonymous": 25625,
- "new_this_run": 10,
+ "total_count": 36313,
+ "anonymous_skipped": 10685,
+ "non_anonymous": 25628,
+ "new_this_run": 3,
  "mode": "incremental",
  "donations": [
   {
@@ -179381,6 +179381,27 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-10-17T23:42:00.000-05:00"
+  },
+  {
+   "id": "1587423825",
+   "name": "Meghan Rogers",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-18T10:40:00.000-05:00"
+  },
+  {
+   "id": "1587446519",
+   "name": "Hope Haddock",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-18T11:51:00.000-05:00"
+  },
+  {
+   "id": "1587557253",
+   "name": "Allison Ortega Seo",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-18T17:13:00.000-05:00"
   }
  ]
 }

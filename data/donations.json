@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36313,
- "anonymous_skipped": 10685,
- "non_anonymous": 25628,
- "new_this_run": 3,
+ "total_count": 36316,
+ "anonymous_skipped": 10683,
+ "non_anonymous": 25633,
+ "new_this_run": 5,
  "mode": "incremental",
  "donations": [
   {
@@ -179402,6 +179402,41 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-10-18T17:13:00.000-05:00"
+  },
+  {
+   "id": "1587956475",
+   "name": "Cathleen Burke",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-19T17:55:30.000-05:00"
+  },
+  {
+   "id": "1587969243",
+   "name": "Judson Prophete",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-19T18:35:46.000-05:00"
+  },
+  {
+   "id": "1587975323",
+   "name": "Diana Fatula",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-19T18:54:30.000-05:00"
+  },
+  {
+   "id": "1588024899",
+   "name": "Caroline Morrissy",
+   "amount": 34.0,
+   "currency": "USD",
+   "createdAt": "2026-10-19T21:16:30.000-05:00"
+  },
+  {
+   "id": "1588066141",
+   "name": "jennifer moore",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-20T00:08:30.000-05:00"
   }
  ]
 }

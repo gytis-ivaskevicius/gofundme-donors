@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36316,
- "anonymous_skipped": 10683,
- "non_anonymous": 25633,
- "new_this_run": 5,
+ "total_count": 36321,
+ "anonymous_skipped": 10684,
+ "non_anonymous": 25637,
+ "new_this_run": 4,
  "mode": "incremental",
  "donations": [
   {
@@ -179437,6 +179437,34 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-10-20T00:08:30.000-05:00"
+  },
+  {
+   "id": "1588105527",
+   "name": "Evelyn Amaya-flores",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-20T04:28:54.000-05:00"
+  },
+  {
+   "id": "1588328465",
+   "name": "Deborah Jones",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-10-20T15:09:27.000-05:00"
+  },
+  {
+   "id": "1588404167",
+   "name": "Jordan Fuchs",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-10-20T18:11:32.000-05:00"
+  },
+  {
+   "id": "1588458917",
+   "name": "Sherri Ginsburg",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-20T20:39:30.000-05:00"
   }
  ]
 }

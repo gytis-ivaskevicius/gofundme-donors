@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36325,
+ "total_count": 36326,
  "anonymous_skipped": 10684,
- "non_anonymous": 25641,
- "new_this_run": 4,
+ "non_anonymous": 25642,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -179493,6 +179493,13 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-10-22T00:24:34.000-05:00"
+  },
+  {
+   "id": "1589358129",
+   "name": "Brandee Mulligan",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-10-22T22:40:56.000-05:00"
   }
  ]
 }

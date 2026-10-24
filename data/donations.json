@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36326,
- "anonymous_skipped": 10684,
- "non_anonymous": 25642,
- "new_this_run": 1,
+ "total_count": 36330,
+ "anonymous_skipped": 10686,
+ "non_anonymous": 25644,
+ "new_this_run": 2,
  "mode": "incremental",
  "donations": [
   {
@@ -179500,6 +179500,20 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-10-22T22:40:56.000-05:00"
+  },
+  {
+   "id": "1589657357",
+   "name": "River Bradford",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-10-23T16:04:43.000-05:00"
+  },
+  {
+   "id": "1589786891",
+   "name": "Joel Micko",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-10-23T23:50:04.000-05:00"
   }
  ]
 }

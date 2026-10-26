@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36333,
+ "total_count": 36334,
  "anonymous_skipped": 10686,
- "non_anonymous": 25647,
- "new_this_run": 3,
+ "non_anonymous": 25648,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -179535,6 +179535,13 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-10-24T21:55:24.000-05:00"
+  },
+  {
+   "id": "1590541623",
+   "name": "Lidyanne London",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-26T03:29:39.000-05:00"
   }
  ]
 }

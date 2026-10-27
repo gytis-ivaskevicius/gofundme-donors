@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36334,
- "anonymous_skipped": 10686,
- "non_anonymous": 25648,
- "new_this_run": 1,
+ "total_count": 36338,
+ "anonymous_skipped": 10688,
+ "non_anonymous": 25650,
+ "new_this_run": 2,
  "mode": "incremental",
  "donations": [
   {
@@ -179542,6 +179542,20 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-10-26T03:29:39.000-05:00"
+  },
+  {
+   "id": "1590860467",
+   "name": "Rachel Horn",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-26T20:11:44.000-05:00"
+  },
+  {
+   "id": "1590901179",
+   "name": "Kelly Bryant",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-10-26T22:21:24.000-05:00"
   }
  ]
 }

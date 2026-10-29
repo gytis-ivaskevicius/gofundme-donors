@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36340,
- "anonymous_skipped": 10690,
- "non_anonymous": 25650,
- "new_this_run": 0,
+ "total_count": 36343,
+ "anonymous_skipped": 10692,
+ "non_anonymous": 25651,
+ "new_this_run": 1,
  "mode": "incremental",
  "donations": [
   {
@@ -179556,6 +179556,13 @@
    "amount": 10.0,
    "currency": "USD",
    "createdAt": "2026-10-26T22:21:24.000-05:00"
+  },
+  {
+   "id": "1591436469",
+   "name": "noela burow",
+   "amount": 7.0,
+   "currency": "USD",
+   "createdAt": "2026-10-28T05:41:03.000-05:00"
   }
  ]
 }

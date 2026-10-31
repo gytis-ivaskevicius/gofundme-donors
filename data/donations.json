@@ -1,9 +1,9 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36346,
- "anonymous_skipped": 10693,
- "non_anonymous": 25653,
+ "total_count": 36345,
+ "anonymous_skipped": 10690,
+ "non_anonymous": 25655,
  "new_this_run": 2,
  "mode": "incremental",
  "donations": [
@@ -179577,6 +179577,20 @@
    "amount": 5.0,
    "currency": "USD",
    "createdAt": "2026-10-29T15:30:28.000-05:00"
+  },
+  {
+   "id": "1592512835",
+   "name": "Cindy Owens Gorham",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-10-30T11:31:00.000-05:00"
+  },
+  {
+   "id": "1592546915",
+   "name": "Katherine Longman",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-10-30T12:38:04.000-05:00"
   }
  ]
 }

@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36346,
+ "total_count": 36350,
  "anonymous_skipped": 10690,
- "non_anonymous": 25656,
- "new_this_run": 1,
+ "non_anonymous": 25660,
+ "new_this_run": 4,
  "mode": "incremental",
  "donations": [
   {
@@ -179598,6 +179598,34 @@
    "amount": 6.0,
    "currency": "USD",
    "createdAt": "2026-10-31T21:49:53.000-05:00"
+  },
+  {
+   "id": "1593439733",
+   "name": "Jane Knop",
+   "amount": 888.0,
+   "currency": "USD",
+   "createdAt": "2026-11-01T14:52:30.000-06:00"
+  },
+  {
+   "id": "1593517401",
+   "name": "Laura Johnson",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-11-01T18:39:00.000-06:00"
+  },
+  {
+   "id": "1593586387",
+   "name": "Johnie Bernstein",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-01T23:32:19.000-06:00"
+  },
+  {
+   "id": "1593598811",
+   "name": "Jessica Boeve",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T01:01:00.000-06:00"
   }
  ]
 }

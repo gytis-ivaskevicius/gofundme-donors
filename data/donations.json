@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36350,
- "anonymous_skipped": 10690,
- "non_anonymous": 25660,
- "new_this_run": 4,
+ "total_count": 36375,
+ "anonymous_skipped": 10700,
+ "non_anonymous": 25675,
+ "new_this_run": 15,
  "mode": "incremental",
  "donations": [
   {
@@ -179626,6 +179626,111 @@
    "amount": 11.0,
    "currency": "USD",
    "createdAt": "2026-11-02T01:01:00.000-06:00"
+  },
+  {
+   "id": "1593904537",
+   "name": "Kim Solo",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T16:39:14.000-06:00"
+  },
+  {
+   "id": "1593910609",
+   "name": "Evan Hard",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T16:53:04.000-06:00"
+  },
+  {
+   "id": "1593914671",
+   "name": "Casellda Latín-Molina",
+   "amount": 11.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T17:02:30.000-06:00"
+  },
+  {
+   "id": "1593918943",
+   "name": "Cendi Alvarado",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T17:13:12.000-06:00"
+  },
+  {
+   "id": "1593919203",
+   "name": "Robin Herrington",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T17:13:47.000-06:00"
+  },
+  {
+   "id": "1593936953",
+   "name": "Central Intelligence",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T17:56:24.000-06:00"
+  },
+  {
+   "id": "1593965147",
+   "name": "Candace Allum",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T19:05:52.000-06:00"
+  },
+  {
+   "id": "1593971705",
+   "name": "Jenny Gerard",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T19:21:30.000-06:00"
+  },
+  {
+   "id": "1593978699",
+   "name": "Julia Brown",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T19:37:20.000-06:00"
+  },
+  {
+   "id": "1593980965",
+   "name": "Christine Oconnell",
+   "amount": 30.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T19:42:30.000-06:00"
+  },
+  {
+   "id": "1594016539",
+   "name": "Valentyna Kaminska",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T21:04:51.000-06:00"
+  },
+  {
+   "id": "1594037719",
+   "name": "Karen Clark",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T22:02:39.000-06:00"
+  },
+  {
+   "id": "1594056821",
+   "name": "Haley Zahn",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T23:14:11.000-06:00"
+  },
+  {
+   "id": "1594062393",
+   "name": "Christine Avendaño",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-11-02T23:39:40.000-06:00"
+  },
+  {
+   "id": "1594093019",
+   "name": "Ann Rothstein",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T02:08:23.000-06:00"
   }
  ]
 }

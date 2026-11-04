@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36375,
- "anonymous_skipped": 10700,
- "non_anonymous": 25675,
- "new_this_run": 15,
+ "total_count": 36384,
+ "anonymous_skipped": 10701,
+ "non_anonymous": 25683,
+ "new_this_run": 8,
  "mode": "incremental",
  "donations": [
   {
@@ -179731,6 +179731,62 @@
    "amount": 100.0,
    "currency": "USD",
    "createdAt": "2026-11-03T02:08:23.000-06:00"
+  },
+  {
+   "id": "1594191287",
+   "name": "Sylvia Smith",
+   "amount": 100.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T08:36:29.000-06:00"
+  },
+  {
+   "id": "1594215969",
+   "name": "necia faretto",
+   "amount": 25.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T09:42:07.000-06:00"
+  },
+  {
+   "id": "1594261701",
+   "name": "Donna Mccallum",
+   "amount": 13.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T11:31:15.000-06:00"
+  },
+  {
+   "id": "1594273829",
+   "name": "Joan Carmody",
+   "amount": 6.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T11:58:21.000-06:00"
+  },
+  {
+   "id": "1594355817",
+   "name": "Holly Harris",
+   "amount": 5.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T14:43:34.000-06:00"
+  },
+  {
+   "id": "1594533101",
+   "name": "David Mitchell",
+   "amount": 200.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T22:09:15.000-06:00"
+  },
+  {
+   "id": "1594542291",
+   "name": "Katherine Boyette",
+   "amount": 15.0,
+   "currency": "USD",
+   "createdAt": "2026-11-03T22:52:00.000-06:00"
+  },
+  {
+   "id": "1594593939",
+   "name": "Leah Harding",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-11-04T03:47:17.000-06:00"
   }
  ]
 }

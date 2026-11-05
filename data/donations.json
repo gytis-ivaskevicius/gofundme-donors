@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36384,
- "anonymous_skipped": 10701,
- "non_anonymous": 25683,
- "new_this_run": 8,
+ "total_count": 36388,
+ "anonymous_skipped": 10703,
+ "non_anonymous": 25685,
+ "new_this_run": 2,
  "mode": "incremental",
  "donations": [
   {
@@ -179787,6 +179787,20 @@
    "amount": 20.0,
    "currency": "USD",
    "createdAt": "2026-11-04T03:47:17.000-06:00"
+  },
+  {
+   "id": "1594876063",
+   "name": "Veronica Rodrigues",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-04T16:27:00.000-06:00"
+  },
+  {
+   "id": "1594913381",
+   "name": "Elizabeth Lever",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-11-04T18:02:33.000-06:00"
   }
  ]
 }

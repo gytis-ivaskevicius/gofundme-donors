@@ -1,10 +1,10 @@
 {
  "fundraiser_slug": "support-for-lindsay-clancys-parents",
  "fundraiser_id": "106954089",
- "total_count": 36388,
- "anonymous_skipped": 10703,
- "non_anonymous": 25685,
- "new_this_run": 2,
+ "total_count": 36393,
+ "anonymous_skipped": 10704,
+ "non_anonymous": 25689,
+ "new_this_run": 4,
  "mode": "incremental",
  "donations": [
   {
@@ -179801,6 +179801,34 @@
    "amount": 50.0,
    "currency": "USD",
    "createdAt": "2026-11-04T18:02:33.000-06:00"
+  },
+  {
+   "id": "1595130339",
+   "name": "Mary Ann Mitchell",
+   "amount": 50.0,
+   "currency": "USD",
+   "createdAt": "2026-11-05T07:47:56.000-06:00"
+  },
+  {
+   "id": "1595488919",
+   "name": "Jennifer Price",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-05T20:39:05.000-06:00"
+  },
+  {
+   "id": "1595498645",
+   "name": "Christina Jones",
+   "amount": 10.0,
+   "currency": "USD",
+   "createdAt": "2026-11-05T21:05:01.000-06:00"
+  },
+  {
+   "id": "1595525029",
+   "name": "Maybe Lindsay was framed T",
+   "amount": 20.0,
+   "currency": "USD",
+   "createdAt": "2026-11-05T22:28:34.000-06:00"
   }
  ]
 }
